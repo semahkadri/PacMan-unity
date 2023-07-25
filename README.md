@@ -1,7 +1,5 @@
 # 🎮 Pac-Man Game with Unity
 
-![pacman_demo](pacman_demo.gif)
-
 **Pac-Man Game with Unity** is a classic arcade game reimagined with a modern twist. Developed using Unity, this project brings the beloved Pac-Man character to life, offering an exciting and nostalgic gaming experience.
 
 ## 🕹️ Gameplay
@@ -17,10 +15,6 @@ Control Pac-Man with the arrow keys to navigate through the maze, munching on pe
 - **Dynamic Ghost AI:** Watch out for the smart and unpredictable ghost movements, providing a challenging and engaging gaming experience.
 
 - **Level Progression:** Advance through increasingly difficult levels with faster ghosts and complex mazes.
-
-## 🎬 Demo
-
-Check out the [pacman_demo.gif](pacman_demo.gif) to see a sneak peek of the Pac-Man game in action.
 
 ## 🚀 Getting Started
 
